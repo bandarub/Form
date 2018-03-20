@@ -1,0 +1,27 @@
+{
+  "name": "table-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "eslint-plugin-flowtype": "^2.46.1",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.7.0",
+    "lodash": "^4.17.5",
+    "material-ui": "^0.20.0",
+    "namor": "^1.0.1",
+    "react": "^16.2.0",
+    "react-basic-table": "^1.0.14",
+    "react-bootstrap-table": "^4.3.1",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.1",
+    "react-table": "^6.8.0",
+    "react-tap-event-plugin": "^3.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
